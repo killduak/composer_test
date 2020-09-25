@@ -1,0 +1,18 @@
+{
+    "name": "zc/composer_test",
+    "description": "teset12",
+    "require": {
+        
+    },
+    "authors": [
+        {
+            "name": "killduak123",
+            "email": "876555425@qq.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+		  "zc\\composer_test\\": "src/"
+		}
+	  }
+}
